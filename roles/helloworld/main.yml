@@ -1,0 +1,3 @@
+---
+- name: Copy Hello World
+  copy: content="Hello World" dest=/tmp/test1
